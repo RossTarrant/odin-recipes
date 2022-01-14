@@ -1,7 +1,20 @@
 body{
   background-color: #327da8;
+  text-align: center;
 }
-h1{
+*{
   color: white;
   font-family: Georgia;
+  list-style-type: none;
+}
+h1, h2{
+  text-decoration: underline;
+  color: #f5b43b;
+}
+a{
+  font-weight: bold;
+  color: #f5b43b;
+}
+a:hover{
+  color: white;
 }
